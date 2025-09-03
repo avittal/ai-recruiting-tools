@@ -1,0 +1,13 @@
+John Doe
+Software Engineer | Machine Learning | AI
+
+Experience:
+- 5+ years as a Machine Learning Engineer at TechCorp, working with Python, TensorFlow, and PyTorch
+- 2 years as a Data Scientist at DataWorks, using SQL, AWS, and Kubernetes
+
+Education:
+- B.S. in Computer Science, University of California
+
+Skills:
+- Python, TensorFlow, PyTorch, Kubernetes, AWS, SQL, Java, C++
+- NLP, Computer Vision, Recommendation Systems
