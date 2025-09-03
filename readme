@@ -1,0 +1,33 @@
+
+---
+
+## 📂 `job-scraper/README.md`
+
+```markdown
+# 📌 Job Postings Scraper (Market Skills Analysis)
+
+A Python script to scrape job postings, analyze in-demand skills, and generate visual insights.
+
+---
+
+## 🔹 Challenge
+Recruiters need to know trending skills for ML Engineers, but manually analyzing job postings is time-consuming.
+
+---
+
+## 🔹 Approach
+- Scrape job postings from Indeed
+- Extract:
+  - Job Title
+  - Company
+  - Location
+  - Job Summary
+- Parse summaries to detect in-demand skills (Python, TensorFlow, PyTorch, Kubernetes, AWS, SQL, etc.)
+- Generate a bar chart visualizing top skills
+- Export results to CSV
+
+---
+
+## 🔹 Usage
+```bash
+python job_scraper.py
